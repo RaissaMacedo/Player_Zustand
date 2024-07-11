@@ -1,4 +1,4 @@
-# Player_Zuastand
+# Video Lessons Zustand
 
 ## Índice
 
@@ -16,7 +16,7 @@ A Aplicação Player exibe vídeo-aulas organizadas em módulos e aulas. Esta ap
 
 Instruções passo a passo para instalar o projeto. Por exemplo:
 ```bash
-git clone git@github.com:RaissaMacedo/Player_Zustand.git
+git clone git@github.com:RaissaMacedo/VideoLessonsZustand.git
 cd Player_Zustand
 npm install
 ```
